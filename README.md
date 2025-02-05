@@ -22,16 +22,7 @@
 - **Transfer Learning** – Platzi (2024)  
 - **Backend con Python** – Coderhouse (2022)  
 
-## GitHub Stats
-[![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liverlin&show_icons=true&theme=react)](https://github.com/Liverlin)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liverlin&layout=compact&theme=react)](https://github.com/Liverlin)
-
-## Currently...
-- Aprendiendo a **desplegar modelos** de Machine Learning en producción.  
-- Experimentando con **Transfer Learning** e integraciones de **Python** para backend.  
-- Mejora continua en **SQL** y **visualizaciones** en Power BI.
-
-## Contact Me
+### Contáctame
 ¿Tienes ideas de proyectos o buscas colaboración?  
 Siéntete libre de escribirme a [rojas.p.oliver@gmail.com](mailto:rojas.p.oliver@gmail.com) o conectarte vía [LinkedIn](https://www.linkedin.com/in/olivermaker).
 
