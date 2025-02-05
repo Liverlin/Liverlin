@@ -1,49 +1,71 @@
-# ¡Hola! Soy **Oliver Rojas**  :wave:
+<!-- Encabezado con un toque más visual -->
+<h1 align="center">¡Hola! Soy <a href="https://github.com/Liverlin">Oliver Rojas</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-olivermaker-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olivermaker)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Liverlin-black?logo=github&logoColor=white)](https://github.com/Liverlin)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-rojas.p.oliver%40gmail.com-red?logo=gmail&logoColor=white)](mailto:rojas.p.oliver@gmail.com)
+<div align="center">
+  <!-- Badges de contacto -->
+  <a href="https://www.linkedin.com/in/olivermaker">
+    <img src="https://img.shields.io/badge/LinkedIn-olivermaker-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Liverlin">
+    <img src="https://img.shields.io/badge/GitHub-Liverlin-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="mailto:rojas.p.oliver@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-rojas.p.oliver%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
-## Sobre mí
-¡Hola! Soy un futuro **Ingeniero Mecatrónico** (PUCP, 10mo ciclo) con gran interés en **Data Science** y **Machine Learning**.  
-- Me apasiona optimizar procesos, analizar datos y crear soluciones integrales.  
-- Actualmente, estoy perfeccionando mis habilidades en **Python (avanzado)** y en herramientas como **Pandas**, **NumPy**, **scikit-learn**, **Power BI** y **SQL**.  
-- Tengo un **nivel intermedio de inglés (B2)** y me encanta colaborar con equipos multidisciplinarios para transformar ideas en proyectos reales.
+<br/>
 
-### Áreas de Enfoque
-- **Machine Learning & EDA**: Experiencia entrenando modelos, explorando y limpiando datos.  
-- **Automatización de Procesos**: Creación de dashboards, reportes y pipelines.  
-- **Git & GitHub (Intermedio)**: Versión de código y trabajo colaborativo.  
-- **Excel (Avanzado)**: Análisis de datos y reportes dinámicos.  
+## 🚀 Sobre mí
+Soy un futuro **Ingeniero Mecatrónico** (PUCP, 10mo ciclo) con gran interés en **Data Science** y **Machine Learning**.  
+Me encanta aprender nuevas tecnologías y colaborar en proyectos que conviertan ideas en soluciones reales.
 
-### Formación Especializada
+- **Principales habilidades**:  
+  - Python (Avanzado), Pandas, NumPy, scikit-learn  
+  - Creación de reportes y dashboards con Power BI y Excel  
+  - Trabajo con bases de datos (SQL)  
+  - Inglés B2
+
+- **Experiencia en**:  
+  - **Machine Learning & EDA**: Entrenamiento de modelos, exploración y limpieza de datos  
+  - **Automatización de Procesos**: Dashboards, reportes y pipelines  
+  - **Git & GitHub**: Control de versiones y colaboración
+
+<br/>
+
+## 📚 Formación Especializada
 - **Machine Learning para la Industria** – PUCP (2024)  
 - **Inteligencia Artificial** – PUCP (2024)  
 - **Transfer Learning** – Platzi (2024)  
 - **Backend con Python** – Coderhouse (2022)  
 
-### Contáctame
-¿Tienes ideas de proyectos o buscas colaboración?  
-Siéntete libre de escribirme a [rojas.p.oliver@gmail.com](mailto:rojas.p.oliver@gmail.com) o conectarte vía [LinkedIn](https://www.linkedin.com/in/olivermaker).
+<br/>
+
+## ⚙️ Tecnologías y Herramientas
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243.svg?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791.svg?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+<br/>
+
+## ✉️ ¡Conecta conmigo!
+- **LinkedIn**: [olivermaker](https://www.linkedin.com/in/olivermaker)  
+- **Email**: [rojas.p.oliver@gmail.com](mailto:rojas.p.oliver@gmail.com)
 
 ---
-> “La ingeniería mecatrónica me enseñó a unir el mundo físico y el digital; la ciencia de datos me permite descubrir historias en los datos para tomar mejores decisiones.”
 
-
-
-
-
-<!--
-**Liverlin/Liverlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Gracias por visitar mi perfil! :sparkles:
