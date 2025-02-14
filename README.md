@@ -17,29 +17,8 @@
 <br/>
 
 ## 🚀 Sobre mí
-Soy un futuro **Ingeniero Mecatrónico** (PUCP, 10mo ciclo) con gran interés en **Data Science** y **Machine Learning**.  
+Soy un futuro **Ingeniero Mecatrónico** (PUCP, 10mo ciclo) con especializacion en Inteligecia Artificial y.
 Me encanta aprender nuevas tecnologías y colaborar en proyectos que conviertan ideas en soluciones reales.
-
-- **Principales habilidades**:  
-  - Python (Avanzado), Pandas, NumPy, scikit-learn  
-  - Creación de reportes y dashboards con Power BI y Excel  
-  - Trabajo con bases de datos (SQL)  
-  - Inglés B2
-
-- **Experiencia en**:  
-  - **Machine Learning & EDA**: Entrenamiento de modelos, exploración y limpieza de datos  
-  - **Automatización de Procesos**: Dashboards, reportes y pipelines  
-  - **Git & GitHub**: Control de versiones y colaboración
-
-<br/>
-
-## 📚 Formación Especializada
-- **Machine Learning para la Industria** – PUCP (2024)  
-- **Inteligencia Artificial** – PUCP (2024)  
-- **Transfer Learning** – Platzi (2024)  
-- **Backend con Python** – Coderhouse (2022)  
-
-<br/>
 
 ## ⚙️ Tecnologías y Herramientas
 <p>
